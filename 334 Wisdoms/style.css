@@ -1,0 +1,29 @@
+h1 {
+	margin-top: 55px;
+	text-align: center;
+	font-size: 60px;
+	color: white;
+}
+div {
+	margin-top: 80px;
+	padding: 20px;
+	color: white;
+}
+
+body {
+	text-align: center;
+	background-image: url(image1.jpg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.container {
+position:absolute;
+bottom:0;
+right:0;
+}
+
+button {
+	
+	margin-top: 135px;
+}

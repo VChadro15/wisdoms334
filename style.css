@@ -1,15 +1,26 @@
 h1 {
-	margin-top: 125px;
+	margin-top: 55px;
 	text-align: center;
+	font-size: 60px;
+	color: white;
 }
 div {
 	margin-top: 80px;
 	padding: 20px;
+	color: white;
 }
 
 body {
 	text-align: center;
-	background-color: purple;
+	background-image: url(image1.jpg.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.container {
+position:absolute;
+bottom:0;
+right:0;
 }
 
 button {
